@@ -1,1 +1,1 @@
-# ENF_Classification
+Electrical Network Frequency (ENF) is a frequency that is specific to a power grid. This frequency gets embedded in the audio or visual signal that is recorded by devices powered by the grid. The code presented here extracts the ENF signal and determines as to which the recording has taken place.
